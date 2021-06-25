@@ -10,6 +10,7 @@
 		<import addon="script.module.routing" version="0.2.0"/>
 	</requires>
 	<extension point="xbmc.addon.metadata">
+		<provides>audio</provides>
 		<summary lang="en">testing summary</summary>
 		<description lang="en">description you bellend</description>
 		<platform>all</platform>
@@ -17,7 +18,7 @@
 		<forum></forum>
 		<website>https://linktr.ee/dixieprole</website>
 		<source>https://github.com/leopheard/DixielandOfTheProletariat</source>
-		<disclaimer lang="en">disclaimed bitch</disclaimer>
+		<disclaimer lang="en">disclaimer</disclaimer>
 		<assets>
 			<icon>resources/media/logo.jpg</icon>
 			<fanart>resources/media/fanart.jpg</fanart>
@@ -27,7 +28,7 @@ changelog news etc		</news>
 	</extension>
 </addon>
 
-<addon id="plugin.video.seren" version="2.1.1" name="Seren" provider-name="leopheard">
+<addon id="plugin.video.seren" version="2.1.1" name="Seren111" provider-name="leopheard">
     <requires>
         <import addon="xbmc.addon" version="17.9.910" />
         <import addon="script.module.future" version="0.17.1"/>
