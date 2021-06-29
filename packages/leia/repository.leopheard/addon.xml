@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.leopheard" name="leopheard Repo" version="1.0.0" provider-name="leopheard">
 	<extension point="xbmc.addon.repository" name="leopheard Repo">
-		<dir minversion="18.0">
+		<dir minversion="17.0">
 			<info compressed="false">https://raw.githubusercontent.com/leopheard/leopheard/master/packages/leia/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/leopheard/leopheard/master/packages/leia/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/leopheard/leopheard/master/packages/leia/</datadir>
