@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="repository.leopheard" name="leopheard Repo" version="1.0.0" provider-name="leopheard">
+<addon id="repository.leopheard" name="leopheard Repo" version="1.0.1" provider-name="leopheard">
 	<extension point="xbmc.addon.repository" name="leopheard Repo">
 		<dir minversion="18.0">
 			<info compressed="false">https://raw.githubusercontent.com/leopheard/leopheard/master/packages/leia/addons.xml</info>
@@ -10,7 +10,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>leopheard</summary>
-		<description>leopheard Repository</description>
+		<description>leopheard's repo: an ecclectic mix of mostly leftwing podcasts</description>
 		<platform>all</platform>
 	</extension>
 </addon>
