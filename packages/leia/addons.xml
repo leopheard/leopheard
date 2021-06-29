@@ -90,7 +90,7 @@ news here        </news>
     </extension>
 </addon>
 
-<addon id="plugin.video.seren" version="2.1.1" name="Seren111" provider-name="leopheard">
+<addon id="plugin.video.seren" version="1.0.0" name="Seren-1234" provider-name="leopheard">
     <requires>
         <import addon="xbmc.addon" version="17.9.910" />
         <import addon="script.module.future" version="0.17.1"/>
@@ -107,10 +107,8 @@ news here        </news>
     <extension point="xbmc.service" library="service.py"/>
     <extension point="xbmc.addon.metadata">
         <reuselanguageinvoker>false</reuselanguageinvoker>
-        <summary lang="en">Seren - Modular Multi-source Addon</summary>
-        <description lang="en">Seren is a modular provider based, cloud service streaming software that is tightly
-            interwoven with Trakt. Seren provides the freedom to view media from a single menu system from service
-            providers of the users choosing. Please Note: This addon requires the use of a compatible cloud service.
+        <summary lang="en">Seren TESTING</summary>
+        <description lang="en">TESTING 1234
         </description>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
