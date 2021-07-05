@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<addons>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.leopheard" name="leopheard Repo" version="0.0.1" provider-name="leopheard">
 	<extension point="xbmc.addon.repository" name="leopheard Repo">
 		<dir minversion="18.0">
@@ -18,4 +17,3 @@
 		</assets>
 	</extension>
 </addon>
-</addons>
